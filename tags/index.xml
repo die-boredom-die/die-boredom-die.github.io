@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Die! Boredom! Die!</title>
-    <link>/tags/</link>
+    <link>https://dieboredomdie.co.uk/tags/</link>
     <description>Recent content in Tags on Die! Boredom! Die!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieboredomdie.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Boardgame</title>
-      <link>/tags/boardgame/</link>
+      <link>https://dieboredomdie.co.uk/tags/boardgame/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/boardgame/</guid>
+      <guid>https://dieboredomdie.co.uk/tags/boardgame/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review</title>
-      <link>/tags/review/</link>
+      <link>https://dieboredomdie.co.uk/tags/review/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/review/</guid>
+      <guid>https://dieboredomdie.co.uk/tags/review/</guid>
       <description></description>
     </item>
     
