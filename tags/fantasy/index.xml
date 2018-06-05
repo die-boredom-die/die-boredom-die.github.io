@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Die! Boredom! Die!</title>
-    <link>https://dieboredomdie.co.uk/post/</link>
-    <description>Recent content in Posts on Die! Boredom! Die!</description>
+    <title>Fantasy on Die! Boredom! Die!</title>
+    <link>https://dieboredomdie.co.uk/tags/fantasy/</link>
+    <description>Recent content in Fantasy on Die! Boredom! Die!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 03 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dieboredomdie.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieboredomdie.co.uk/tags/fantasy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,17 +18,6 @@
       
       <guid>https://dieboredomdie.co.uk/2018/06/03/slowquest-the-art-of-bodie-hartley/</guid>
       <description>Art - I&amp;rsquo;m far from an aesthete, I couldn&amp;rsquo;t tell you what colour puce is without having to look it up for the 100th time and to be honest I didn&amp;rsquo;t even know what &amp;ldquo;aesthete&amp;rdquo; meant until I looked that up. I also couldn&amp;rsquo;t tell you why that picture of a lemon floating on a sea of magnets was a scathing indictment on the 1990&amp;rsquo;s political climate in Manila - and to be entirely honest I can&amp;rsquo;t even tell you if that’s a real work of art or something I just made up - it&amp;rsquo;s been a long day.</description>
-    </item>
-    
-    <item>
-      <title>Survive Escape from Atlantis Review</title>
-      <link>https://dieboredomdie.co.uk/2018/05/18/survive-escape-from-atlantis-review/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dieboredomdie.co.uk/2018/05/18/survive-escape-from-atlantis-review/</guid>
-      <description>Survive: Escape from Atlantis is like playing Forbidden Island except you discover you&amp;rsquo;re playing Carcassonne but you&amp;rsquo;re playing it in reverse for some reason and someone decided to throw their copy of Get Bit into the mix.
-Survive: Escape from Atlantis is nearly as old as me.
-Survive: Escape from Atlanta is a not a Walking Dead themed version of this game but it wouldn&amp;rsquo;t surprise me if it eventually became one - you know what these crazy brands are like.</description>
     </item>
     
   </channel>

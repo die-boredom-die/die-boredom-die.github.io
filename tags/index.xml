@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Die! Boredom! Die!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dieboredomdie.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Art</title>
+      <link>https://dieboredomdie.co.uk/tags/art/</link>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dieboredomdie.co.uk/tags/art/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Boardgame</title>
@@ -17,6 +26,15 @@
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dieboredomdie.co.uk/tags/boardgame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fantasy</title>
+      <link>https://dieboredomdie.co.uk/tags/fantasy/</link>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dieboredomdie.co.uk/tags/fantasy/</guid>
       <description></description>
     </item>
     
