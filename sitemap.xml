@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dieboredomdie.co.uk/2018/06/12/villagers-final-hours/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dieboredomdie.co.uk/plays/29528343/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dieboredomdie.co.uk/plays/29528595/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dieboredomdie.co.uk/plays/29529043/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dieboredomdie.co.uk/plays/29529924/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dieboredomdie.co.uk/plays/29460310/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url>
@@ -1704,7 +1729,7 @@
   
   <url>
     <loc>https://dieboredomdie.co.uk/plays/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1715,19 +1740,25 @@
   
   <url>
     <loc>https://dieboredomdie.co.uk/tags/boardgame/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dieboredomdie.co.uk/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dieboredomdie.co.uk/tags/fantasy/</loc>
     <lastmod>2018-06-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dieboredomdie.co.uk/tags/kickstarter/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1749,7 +1780,7 @@
   
   <url>
     <loc>https://dieboredomdie.co.uk/post/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
